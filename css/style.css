@@ -1,0 +1,38 @@
+body
+{
+	font-family: Garamond;
+	margin: 0px;
+}
+.menu
+{
+	background-color: #FFDAB9;
+	color: black;
+	height: 200px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+#lewy, #prawy
+{
+	background-color: #FFEFD5;
+	height: 500px;
+	width: 50%;
+	float: left;
+}
+#stopka
+{
+	clear: both;
+	background-color:  #FFDAB9;
+	color: black;
+	text-align: center;
+	padding: 50px;
+}
+form
+{
+	width: 200px;
+	padding-top: 60px;
+}
+p
+{
+	font-size: 150%;
+}
